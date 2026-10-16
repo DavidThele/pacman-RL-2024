@@ -2,8 +2,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 from pacbot.variables import *
-from pacbot.grid import grid
-from scipy.optimize import minimize
+
 
 
 # NOTE: These values are set based on the specific video and may need to 
